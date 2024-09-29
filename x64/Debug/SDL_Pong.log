@@ -1,0 +1,8 @@
+﻿  Ball.cpp
+D:\CPP\SDL_Pong\Ball.h(44,32): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+  (compiling source file 'Ball.cpp')
+  
+D:\CPP\SDL_Pong\Paddle.h(21,34): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+  (compiling source file 'Ball.cpp')
+  
+  SDL_Pong.vcxproj -> D:\CPP\LazyFoo\x64\Debug\SDL_Pong.exe
